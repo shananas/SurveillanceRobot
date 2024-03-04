@@ -5,5 +5,9 @@ assets:
  - name: obj/M_EX770_RAW.mdlx
    method: copy
    source:
-    - name: obj/M_EX770_RAW.mdlx
-    
+    - name: obj/M_EX770_RAW.mdl
+ - name: remastered/obj/M_EX760_CROWD.mdlx/-0.dds
+   platform: pc
+   method: copy
+   source:
+    - name: remastered/-0.dds
